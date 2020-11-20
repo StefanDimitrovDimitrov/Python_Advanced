@@ -9,7 +9,7 @@ def print_rhombus(n):
         if i == 0:
             return
         line = ' ' * (n - i) + "* " * i
-        print(line.rstrip())
+        print(line.rstrip()) # remove all spaces from the right
         if i == n:
             direction = shrinking
         print_line(i + direction, direction)
