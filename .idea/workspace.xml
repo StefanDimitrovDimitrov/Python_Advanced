@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d400f9-ec08-4205-8ba0-cd8e439dfe9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/01. Rhombus of Stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/01. Rhombus of Stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/02. Class Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/02. Class Book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/03. Scope Mess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/03. Scope Mess.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.02. Class Book">
+  <component name="RunManager" selected="Python.03. Scope Mess">
     <configuration name="01. Rhombus of Stars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,8 +73,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="03. Scope Mess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/03. Scope Mess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03. Scope Mess" />
         <item itemvalue="Python.02. Class Book" />
         <item itemvalue="Python.01. Rhombus of Stars" />
       </list>
@@ -96,22 +116,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="934" height="281" key="GridCell.Tab.0.bottom" timestamp="1605890729947">
+    <state width="934" height="281" key="GridCell.Tab.0.bottom" timestamp="1605893300081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605890729947" />
-    <state width="934" height="281" key="GridCell.Tab.0.center" timestamp="1605890729947">
+    <state width="934" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605893300081" />
+    <state width="934" height="281" key="GridCell.Tab.0.center" timestamp="1605893300081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605890729947" />
-    <state width="934" height="281" key="GridCell.Tab.0.left" timestamp="1605890729947">
+    <state width="934" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605893300081" />
+    <state width="934" height="281" key="GridCell.Tab.0.left" timestamp="1605893300081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605890729947" />
-    <state width="934" height="281" key="GridCell.Tab.0.right" timestamp="1605890729947">
+    <state width="934" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605893300081" />
+    <state width="934" height="281" key="GridCell.Tab.0.right" timestamp="1605893300081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605890729947" />
+    <state width="934" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605893300081" />
     <state width="934" height="346" key="GridCell.Tab.1.bottom" timestamp="1605889527256">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
