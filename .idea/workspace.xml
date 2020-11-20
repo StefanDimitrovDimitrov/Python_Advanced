@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d400f9-ec08-4205-8ba0-cd8e439dfe9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/05. Cup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/05. Cup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/06. Flower.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/06. Flower.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_OOP" />
   </component>
-  <component name="RunManager" selected="Python.05. Cup">
-    <configuration name="01. Rhombus of Stars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Advanced" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/01. Rhombus of Stars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.06. Flower">
     <configuration name="02. Class Book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,13 +115,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="06. Flower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/06. Flower.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06. Flower" />
         <item itemvalue="Python.05. Cup" />
         <item itemvalue="Python.04. Music" />
         <item itemvalue="Python.03. Scope Mess" />
         <item itemvalue="Python.02. Class Book" />
-        <item itemvalue="Python.01. Rhombus of Stars" />
       </list>
     </recent_temporary>
   </component>
@@ -164,38 +164,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605898500080" />
-    <state width="1897" height="346" key="GridCell.Tab.0.bottom" timestamp="1605900002170">
+    <state width="936" height="346" key="GridCell.Tab.0.bottom" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605900002170" />
-    <state width="1897" height="346" key="GridCell.Tab.0.center" timestamp="1605900002170">
+    <state width="936" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.0.center" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605900002170" />
-    <state width="1897" height="346" key="GridCell.Tab.0.left" timestamp="1605900002170">
+    <state width="936" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.0.left" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605900002170" />
-    <state width="1897" height="346" key="GridCell.Tab.0.right" timestamp="1605900002170">
+    <state width="936" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.0.right" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605900002170" />
-    <state width="1897" height="346" key="GridCell.Tab.1.bottom" timestamp="1605899997698">
+    <state width="936" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.1.bottom" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605899997698" />
-    <state width="1897" height="346" key="GridCell.Tab.1.center" timestamp="1605899997698">
+    <state width="936" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.1.center" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605899997698" />
-    <state width="1897" height="346" key="GridCell.Tab.1.left" timestamp="1605899997697">
+    <state width="936" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.1.left" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605899997697" />
-    <state width="1897" height="346" key="GridCell.Tab.1.right" timestamp="1605899997698">
+    <state width="936" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
+    <state width="936" height="346" key="GridCell.Tab.1.right" timestamp="1605902115659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605899997698" />
+    <state width="936" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605902115659" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,6 +204,11 @@
           <url>file://$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/05. Cup.py</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/06. Flower.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
