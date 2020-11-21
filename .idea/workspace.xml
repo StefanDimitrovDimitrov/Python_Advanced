@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d400f9-ec08-4205-8ba0-cd8e439dfe9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/07.Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/08. Shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/09.Hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/10.Steam User.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/11.Programmer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/13.Guild System.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/14. Todo List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced level/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/pokemon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced level/Advanced OOP/01. Defining Classes - Lab +Ex/Guild System/project/player.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +34,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_OOP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Advanced level/Ivan" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Forest\GitHub_Master\Python_Advanced\Advanced level\Ivan" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Forest\GitHub_Master\Python_Advanced\test1" />
       <recent name="C:\Forest\GitHub_Master\Python_Advanced\prooject" />
@@ -112,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trainer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="trainer (2)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.trainer (2)" />
-        <item itemvalue="Python.trainer (1)" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.trainer" />
+        <item itemvalue="Python.trainer (1)" />
         <item itemvalue="Python.pokemon" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -182,26 +179,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1031" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1605955714798" />
+    <state x="826" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605962383077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605962383077" />
     <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1605898500080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605898500080" />
-    <state width="934" height="270" key="GridCell.Tab.0.bottom" timestamp="1605958295616">
+    <state width="1897" height="270" key="GridCell.Tab.0.bottom" timestamp="1605969793190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605958295616" />
-    <state width="934" height="270" key="GridCell.Tab.0.center" timestamp="1605958295616">
+    <state width="1897" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605969793190" />
+    <state width="1897" height="270" key="GridCell.Tab.0.center" timestamp="1605969793190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605958295616" />
-    <state width="934" height="270" key="GridCell.Tab.0.left" timestamp="1605958295616">
+    <state width="1897" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605969793190" />
+    <state width="1897" height="270" key="GridCell.Tab.0.left" timestamp="1605969793189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605958295616" />
-    <state width="934" height="270" key="GridCell.Tab.0.right" timestamp="1605958295616">
+    <state width="1897" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605969793189" />
+    <state width="1897" height="270" key="GridCell.Tab.0.right" timestamp="1605969793190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605958295616" />
+    <state width="1897" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605969793190" />
     <state width="934" height="299" key="GridCell.Tab.1.bottom" timestamp="1605958166945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
