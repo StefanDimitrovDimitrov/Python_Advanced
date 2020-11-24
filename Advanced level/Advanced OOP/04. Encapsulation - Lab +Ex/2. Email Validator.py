@@ -1,12 +1,12 @@
 class EmailValidator:
 
-    def __init__(self, name, mails, domains):
-        self.name = name
+    def __init__(self, min_length, mails, domains):
+        self.min_length = min_length
         self.mails = mails
         self.domains = domains
 
     def __validate_name(self, name):
-        return len(name) >= self.name
+        return len(name) >= self.min_length
 
     def __validate_mail(self, mails):
         return mails in self.mails
