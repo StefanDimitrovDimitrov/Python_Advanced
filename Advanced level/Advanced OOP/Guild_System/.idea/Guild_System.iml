@@ -2,9 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/Hotel/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/Pokemon/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/testing/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

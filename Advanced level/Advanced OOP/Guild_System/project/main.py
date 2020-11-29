@@ -1,0 +1,30 @@
+from project.guild import Guild
+from project.player import Player
+
+player = Player("George", 50, 100)
+player_3 = Player("George", 70, 90)
+player_2 = Player("Ivan", 70, 99)
+print(player_2.add_skill("Tuturutka", 30))
+print(player.add_skill("Shield Break", 20))
+# print(player.add_skill("Shield Break_3", 30))
+print(player.player_info())
+guild = Guild("UGT")
+guild_2 = Guild("BIBOBIBI")
+
+print(guild.assign_player(player))
+print(guild.assign_player(player_3))
+print(guild.kick_player("George"))
+print("-------------------------------")
+print(player_3.player_info())
+print(player.player_info())
+print(guild.assign_player(player_2))
+print(guild_2.assign_player(player_2))
+print(guild.guild_info())
+# print(guild.assign_player(player_2))
+# print(player.player_info())
+print("----------------------------")
+print(guild_2.guild_info())
+print("-----------------------------------")
+# print(player.player_info())
+# print(player.player_info())
+

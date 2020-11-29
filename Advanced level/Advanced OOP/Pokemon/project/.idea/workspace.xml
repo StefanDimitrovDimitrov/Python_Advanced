@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61a46e3-70f2-4aaa-8bc3-371311a3a66e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/Advanced OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Advanced OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Testing - Lab + Ex/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Testing - Lab + Ex/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/.idea/testing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/callAPI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/car_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/extended_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/int_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/test_call_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/test_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/test_cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/test_extended_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/test_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testing/testing/test_solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/.idea/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/pokemon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../project/trainer.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1kxrtFZxXIZ6wbSAf8DHZKMsv8N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61a46e3-70f2-4aaa-8bc3-371311a3a66e" name="Default Changelist" comment="" />
+      <created>1606653295544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606653295544</updated>
+    </task>
+    <servers />
+  </component>
+</project>
