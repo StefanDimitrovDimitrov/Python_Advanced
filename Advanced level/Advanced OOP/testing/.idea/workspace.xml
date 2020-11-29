@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6653a93f-2d5c-45ce-b9ca-8a0af658f337" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Testing - Lab + Ex/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testing - Lab + Ex/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Advanced OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Advanced OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/01. Rhombus of Stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/01. Rhombus of Stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/02. Class Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/02. Class Book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/03. Scope Mess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/03. Scope Mess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/04. Music.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/04. Music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/05. Cup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/05. Cup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/06. Flower.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/06. Flower.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/07.Car.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/07.Car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/08. Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/08. Shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/09.Hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/09.Hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/10.Steam User.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/10.Steam User.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/11.Programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/11.Programmer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/13.Guild System.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/13.Guild System.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/14. Todo List.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/14. Todo List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/Ivan/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/Ivan/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/Spoopify/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/album.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/Spoopify/project/album.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/band.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/Spoopify/project/band.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/Spoopify/project/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/Spoopify/project/song.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/project/guild.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/project/guild.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/Guild System/project/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/Guild System/project/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01. Defining Classes - Lab +Ex/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Defining Classes - Lab +Ex/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/test_cat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in test_cat.py">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,8 +53,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_cat.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testing/test_cat.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_cat.py" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -95,21 +88,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="958" height="286" key="GridCell.Tab.0.bottom" timestamp="1606620320054">
+    <state width="958" height="286" key="GridCell.Tab.0.bottom" timestamp="1606632463911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606620320054" />
-    <state width="958" height="286" key="GridCell.Tab.0.center" timestamp="1606620320053">
+    <state width="958" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606632463911" />
+    <state width="958" height="286" key="GridCell.Tab.0.center" timestamp="1606632463910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606620320053" />
-    <state width="958" height="286" key="GridCell.Tab.0.left" timestamp="1606620320053">
+    <state width="958" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606632463910" />
+    <state width="958" height="286" key="GridCell.Tab.0.left" timestamp="1606632463910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606620320053" />
-    <state width="958" height="286" key="GridCell.Tab.0.right" timestamp="1606620320053">
+    <state width="958" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606632463910" />
+    <state width="958" height="286" key="GridCell.Tab.0.right" timestamp="1606632463911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606620320053" />
+    <state width="958" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606632463911" />
   </component>
 </project>
