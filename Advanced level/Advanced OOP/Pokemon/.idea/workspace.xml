@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e428a68-a7bd-44e6-926a-5a3f787b3386" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/Advanced OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Advanced OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testing - Lab + Ex/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testing - Lab + Ex/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/.idea/testing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/callAPI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/car_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/cat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/extended_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/int_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/test_call_api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/test_car.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/test_cat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/test_extended_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/test_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing/testing/test_solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/.idea/project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/pokemon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../project/trainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/project/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/project/section.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

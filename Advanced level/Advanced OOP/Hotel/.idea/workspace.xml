@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f49c561c-a3c6-4702-89ef-a92bcc0d26f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/project/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/project/section.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TODOList/project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TODOList/project/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
