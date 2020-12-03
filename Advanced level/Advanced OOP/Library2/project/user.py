@@ -1,4 +1,4 @@
-from project.library import Library
+from Library2.project.library import Library
 
 
 class User:

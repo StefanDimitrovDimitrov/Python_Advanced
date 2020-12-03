@@ -1,5 +1,5 @@
-from project.library import Library
-from project.user import User
+from Library2.project.library import Library
+from Library2.project.user import User
 
 user = User(12, 'Peter')
 library = Library()
@@ -10,6 +10,7 @@ print(library.remove_user(user))
 library.add_user(user)
 print(library.change_username(2, 'Igor'))
 print(library.change_username(12, 'Peter'))
+
 print(library.change_username(12, 'George'))
 
 [print(f'{user_record.user_id}, {user_record.username}, {user_record.books}') for user_record in library.user_records]

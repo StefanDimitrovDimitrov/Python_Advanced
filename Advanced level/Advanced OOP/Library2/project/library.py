@@ -9,7 +9,7 @@ class Library:
         self.rented_books = {}
         self.rented_books_by_book_name = {}
 
-    def add_user(self, user):
+    def add_user(self, user: 'User'):
         if user in self.user_records:
             return f"User with id = {user.user_id} already registered in the library!"
 
@@ -24,28 +24,28 @@ class Library:
         #     del self.rented_books[user.username]
 
     def change_username(self, user_id: int, new_username: str):
-
-        user_list = list(filter(lambda user: user.user_id == user_id, self.user_records))
-
-        if user_list:
-            if user_list[0].username == new_username:
-                return "Please check again the provided username - it should be different than the username used so far!"
-
-            user_list[0].username = new_username
-            return f"Username successfully changed to: {new_username} for userid: {user_id}"
-        return f"There is no user with id = {user_id}!"
-
-        # list_user_id = [u.user_id for u in self.user_records if user_id == u.user_id]
-        # if not list_user_id:
-        #     return f"There is no user with id = {user_id}!"
         #
-        # user = self.user_records[list_user_id.index(user_id)]
-        # if user.username == new_username:
-        #     return "Please check again the provided username - it should be different than the username used so far!"
+        # user_list = list(filter(lambda user: user.user_id == user_id, self.user_records))
         #
-        # user.username = new_username
+        # if user_list:
+        #     if user_list[0].username == new_username:
+        #         return "Please check again the provided username - it should be different than the username used so far!"
         #
-        # if user.username in self.rented_books:
-        #     self.rented_books[new_username] = self.rented_books.pop(user.username)
-        #
-        # return f"Username successfully changed to: {new_username} for userid: {user_id}"
+        #     user_list[0].username = new_username
+        #     return f"Username successfully changed to: {new_username} for userid: {user_id}"
+        # return f"There is no user with id = {user_id}!"
+
+        list_user_id = [u.user_id for u in self.user_records if user_id == u.user_id]
+        if not list_user_id:
+            return f"There is no user with id = {user_id}!"
+
+        user = self.user_records[list_user_id.index(user_id)]
+        if user.username == new_username:
+            return "Please check again the provided username - it should be different than the username used so far!"
+
+        user.username = new_username
+
+        if user.username in self.rented_books.keys():
+            self.rented_books[new_username] = self.rented_books.pop(user.username)
+
+        return f"Username successfully changed to: {new_username} for userid: {user_id}"
