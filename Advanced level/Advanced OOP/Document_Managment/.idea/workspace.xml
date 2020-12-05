@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81830750-2e71-4c77-b525-954a50ea338b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Document_Managment/.idea/Document_Managment.iml" afterDir="false" />
+    <list default="true" id="8f246c28-c936-477e-afb1-a5d768b225d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Document_Managment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Gym/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Gym/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieWorld/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -22,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1l8Hhgz5pn3ngDJPOw2FxB9po8G" />
+  <component name="ProjectId" id="1lEMld7wFsFKYcq4c69kNZ88kI6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,11 +30,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MovieWorld" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MovieWorld" />
+      <module name="Document_Managment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -66,55 +65,64 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81830750-2e71-4c77-b525-954a50ea338b" name="Default Changelist" comment="" />
-      <created>1606971918270</created>
+      <changelist id="8f246c28-c936-477e-afb1-a5d768b225d3" name="Default Changelist" comment="" />
+      <created>1607157948662</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606971918270</updated>
+      <updated>1607157948662</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="876" height="355" key="GridCell.Tab.0.bottom" timestamp="1607161895780">
+    <state x="259" y="277" key="FileChooserDialogImpl" timestamp="1607161784760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.0.center" timestamp="1607161895780">
+    <state x="259" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607161784760" />
+    <state width="956" height="355" key="GridCell.Tab.0.bottom" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.0.left" timestamp="1607161895780">
+    <state width="956" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.0.center" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.0.right" timestamp="1607161895780">
+    <state width="956" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.0.left" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.1.bottom" timestamp="1607161895780">
+    <state width="956" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.0.right" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.1.center" timestamp="1607161895780">
+    <state width="956" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.1.bottom" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.1.left" timestamp="1607161895780">
+    <state width="956" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.1.center" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
-    <state width="876" height="355" key="GridCell.Tab.1.right" timestamp="1607161895780">
+    <state width="956" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.1.left" timestamp="1607163021093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="876" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607161895780" />
+    <state width="956" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
+    <state width="956" height="355" key="GridCell.Tab.1.right" timestamp="1607163021093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="956" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607163021093" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/project/movie_world.py</url>
-          <line>47</line>
+          <url>file://$PROJECT_DIR$/project/document.py</url>
+          <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project/storage.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
