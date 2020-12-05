@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a060d7f-a4ef-4eec-88e1-d164a67f5222" name="Default Changelist" comment="">
+    <list default="true" id="f6c96407-7d58-4409-a0fd-0d7ae99fb1db" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/blade_knight.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/dark_knight.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/dark_wizard.py" afterDir="false" />
@@ -13,7 +13,7 @@
       <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/soul_master.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/wizard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlayersMonsters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayersMonsters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zoo_ingerit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zoo_ingerit/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1lEurzu5OqY65huMtfiIX3CSHo0" />
+  <component name="ProjectId" id="1lFJDZnw27zO7emWLyrMUEsx3Wv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,11 +39,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zoo_ingerit" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Zoo_ingerit" />
+      <module name="Restaurant" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -74,30 +74,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a060d7f-a4ef-4eec-88e1-d164a67f5222" name="Default Changelist" comment="" />
-      <created>1607174774896</created>
+      <changelist id="f6c96407-7d58-4409-a0fd-0d7ae99fb1db" name="Default Changelist" comment="" />
+      <created>1607186786591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607174774896</updated>
+      <updated>1607186786591</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="956" height="268" key="GridCell.Tab.0.bottom" timestamp="1607177287643">
+    <state x="71" y="181" key="#Inspections" timestamp="1607199176491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607177287643" />
-    <state width="956" height="268" key="GridCell.Tab.0.center" timestamp="1607177287643">
+    <state x="71" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607199176491" />
+    <state x="266" y="274" key="FileChooserDialogImpl" timestamp="1607190785552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607177287643" />
-    <state width="956" height="268" key="GridCell.Tab.0.left" timestamp="1607177287643">
+    <state x="266" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607190785552" />
+    <state width="956" height="288" key="GridCell.Tab.0.bottom" timestamp="1607199607783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607177287643" />
-    <state width="956" height="268" key="GridCell.Tab.0.right" timestamp="1607177287643">
+    <state width="956" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607199607783" />
+    <state width="956" height="288" key="GridCell.Tab.0.center" timestamp="1607199607783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607177287643" />
+    <state width="956" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607199607783" />
+    <state width="956" height="288" key="GridCell.Tab.0.left" timestamp="1607199607782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="956" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607199607782" />
+    <state width="956" height="288" key="GridCell.Tab.0.right" timestamp="1607199607783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="956" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607199607783" />
   </component>
 </project>
