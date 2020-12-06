@@ -1,7 +1,7 @@
 def solution():
 
-    def intergers(current_int=0):
-
+    def intergers():
+        current_int = 0
         while True:
             current_int += 1
             yield current_int
@@ -13,8 +13,13 @@ def solution():
 
     def take(n , halves):
         result = []
-        for _ in range(n):
-            result.append(next(halves))
+        for i, num in enumerate(halves):
+            if i == n:
+                return result
+            result.append(num)
+
+
+        # result = [next(halves)for _ in range(n)]
         return result
 
 
