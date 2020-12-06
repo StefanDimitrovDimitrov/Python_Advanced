@@ -12,7 +12,7 @@ class Custom_range:
             raise StopIteration
         else:
             self.start += 1
-            return self.start - 1
+            return self.start -1
 
 
 one_to_ten = Custom_range(1, 10)
