@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c96407-7d58-4409-a0fd-0d7ae99fb1db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlayersMonsters/project/wizard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PlayersMonsters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayersMonsters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zoo_ingerit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zoo_ingerit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zoo_ingerit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -87,10 +76,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="71" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607199176491" />
-    <state x="266" y="274" key="FileChooserDialogImpl" timestamp="1607190785552">
+    <state x="266" y="274" key="FileChooserDialogImpl" timestamp="1607218584729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="266" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607190785552" />
+    <state x="266" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607218584729" />
     <state width="956" height="288" key="GridCell.Tab.0.bottom" timestamp="1607199607783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -107,5 +96,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="956" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607199607783" />
+    <state x="182" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1607218572627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607218572627" />
   </component>
 </project>
