@@ -46,3 +46,29 @@ print(third_group[0])
 
 for person in third_group:
     print(person)
+
+import unittest
+
+class TestPerson(unittest.TestCase):
+    def setUp(self):
+        self.person_1 = Person("Stefan", "Dimitrov")
+
+    def test_custom_repr(self):
+        result = repr(self.person_1)
+        self.assertIn("Stefan", result)
+        self.assertEqual(result, "Person 0: Stefan Dimitrov")
+
+    def test_custom_str(self):
+        result = str(self.person_1)
+        self.assertIn("Stefan", result)
+        self.assertNotIn("Person", result)
+        self.assertEqual(result, "Stefan Dimitrov")
+
+    def test_auto_incremented_id(self):
+        person_1_id = Person.id_counter
+        person_2 = Person('2', '2')
+
+        
+
+if __name__ == "__main__":
+    unittest.main()
