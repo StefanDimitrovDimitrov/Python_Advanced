@@ -23,5 +23,4 @@ def get_magic_triangle(n):
             triangle[row][col] = triangle[row - 1][col - 1] + triangle[row - 1][col]
     return triangle
 
-
 print(get_magic_triangle(5))

@@ -17,6 +17,7 @@ for row in range(n):
         player_pos = [row, line.index("P")]
     field. append(line)
 
+print(field)
 commands_count = int(input())
 
 for _ in range(commands_count):
