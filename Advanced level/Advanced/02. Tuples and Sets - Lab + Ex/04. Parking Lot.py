@@ -53,4 +53,3 @@ def Solution_2():
         print("\n".join(parking))
     else:
         print("Parking Lot is Empty")
-        
