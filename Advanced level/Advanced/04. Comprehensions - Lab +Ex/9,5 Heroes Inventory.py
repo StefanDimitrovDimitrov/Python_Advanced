@@ -12,3 +12,4 @@ while command != "End":
     command = input()
 
 [print(f"{hero} -> Items: {len(heroes[hero])}, Cost: {sum(heroes[hero].values())}") for hero in heroes]
+
