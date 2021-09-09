@@ -13,5 +13,7 @@ class Person:
 
 
 person = Person("George", 32)
+person._Person__name = "Stefan"
+print(person._Person__name)
 print(person.get_name())
 print(person.get_age())

@@ -3,8 +3,8 @@ class Account:
     def __init__(self, id, balance, pin):
         self.__id = id
         self.balance = balance
-        self.__pin = pin
-
+        self.__pin = pin  # private attribute
+        # self._id = id    # protected attribute
     def get_id(self, pin):
         if pin == self.__pin:
             return self.__id
