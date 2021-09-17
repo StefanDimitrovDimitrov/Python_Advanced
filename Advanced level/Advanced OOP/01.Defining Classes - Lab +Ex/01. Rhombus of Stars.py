@@ -1,11 +1,9 @@
-
-
 def print_rhombus(n):
-    growing: int = 1
+    growing: int = 1 # global nameSpace
     shrinking: int = -1
 
     # fn- fn -fn -closure
-    def print_line(i, direction):
+    def print_line(i, direction):# local Namespace visible only in print_rhombus
         if i == 0:
             return
         line = ' ' * (n - i) + "* " * i
